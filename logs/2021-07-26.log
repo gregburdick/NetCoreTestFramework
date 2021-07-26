@@ -24,3 +24,18 @@
 2021-07-26 16:03:50.6330 INFO test
 2021-07-26 16:03:50.8135 INFO Tearing down for test SearchTermInGoogle2
 2021-07-26 16:03:51.6740 INFO Killing executable for browser Edge
+2021-07-26 16:18:20.2656 INFO Starting test SearchTermInGoogle2 using browser Edge
+2021-07-26 16:18:20.2656 INFO Starting test SearchTermInGoogle2 using browser Chrome
+2021-07-26 16:18:28.2190 INFO Tearing down for test SearchTermInGoogle2
+2021-07-26 16:18:28.3011 INFO Killing executable for browser Chrome
+2021-07-26 16:18:29.8980 INFO test
+2021-07-26 16:18:30.2080 INFO Tearing down for test SearchTermInGoogle2
+2021-07-26 16:18:30.8217 INFO Killing executable for browser Edge
+2021-07-26 16:20:19.9011 INFO Starting test SearchTermInGoogle2 using browser Edge
+2021-07-26 16:20:19.9011 INFO Starting test SearchTermInGoogle2 using browser Chrome
+2021-07-26 16:20:29.6864 INFO test
+2021-07-26 16:20:30.1799 INFO Tearing down for test SearchTermInGoogle2
+2021-07-26 16:20:30.8335 INFO Killing executable for browser Chrome
+2021-07-26 16:20:31.5845 INFO test
+2021-07-26 16:20:31.8688 INFO Tearing down for test SearchTermInGoogle2
+2021-07-26 16:20:32.9021 INFO Killing executable for browser Edge

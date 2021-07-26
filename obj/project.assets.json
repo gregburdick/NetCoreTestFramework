@@ -516,7 +516,7 @@
           "lib/netstandard2.0/WebDriver.dll": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/91.0.4472.10100": {
+      "Selenium.WebDriver.ChromeDriver/92.0.4515.4300": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
@@ -1365,7 +1365,7 @@
           "NLog.Schema": "4.7.10",
           "NUnit": "3.13.2",
           "Selenium.WebDriver": "4.0.0-alpha01",
-          "Selenium.WebDriver.ChromeDriver": "91.0.4472.10100",
+          "Selenium.WebDriver.ChromeDriver": "92.0.4515.4300",
           "Selenium.WebDriver.GeckoDriver": "0.29.1",
           "Selenium.WebDriver.IEDriver": "3.150.1.2",
           "Selenium.WebDriver.MSEdgeDriver": "91.0.864.37",
@@ -2210,10 +2210,10 @@
         "selenium.webdriver.nuspec"
       ]
     },
-    "Selenium.WebDriver.ChromeDriver/91.0.4472.10100": {
-      "sha512": "RalhItuJ6BZdD9HHVUHdpgDP/NQAUrr1yEAHWet+Ww33wbcuei0A2sF4+9duKaLQuZO3lcid7pKe2+km3sOGBQ==",
+    "Selenium.WebDriver.ChromeDriver/92.0.4515.4300": {
+      "sha512": "pQz29fVN4LvfhhMj97/sUOqlSGexbReaMb9HvfV2KPz1PeFR2wUvokM0rVsHGq5Jx/0yDnx0eVKac3Fl2t1iig==",
       "type": "package",
-      "path": "selenium.webdriver.chromedriver/91.0.4472.10100",
+      "path": "selenium.webdriver.chromedriver/92.0.4515.4300",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2224,7 +2224,7 @@
         "driver/mac64/chromedriver",
         "driver/win32/chromedriver.exe",
         "nupkg-icon.png",
-        "selenium.webdriver.chromedriver.91.0.4472.10100.nupkg.sha512",
+        "selenium.webdriver.chromedriver.92.0.4515.4300.nupkg.sha512",
         "selenium.webdriver.chromedriver.nuspec"
       ]
     },
@@ -5079,7 +5079,7 @@
       "NLog.Schema >= 4.7.10",
       "NUnit3TestAdapter >= 3.17.0",
       "Selenium.WebDriver >= 4.0.0-alpha01",
-      "Selenium.WebDriver.ChromeDriver >= 91.0.4472.10100",
+      "Selenium.WebDriver.ChromeDriver >= 92.0.4515.4300",
       "Selenium.WebDriver.GeckoDriver >= 0.29.1",
       "Selenium.WebDriver.IEDriver >= 3.150.1.2",
       "Selenium.WebDriver.MSEdgeDriver >= 91.0.864.37",
@@ -5095,11 +5095,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antwan.maddox\\source\\repos\\SeleniumCore\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\antwan.maddox\\source\\repos\\NetCoreTestFramework\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\antwan.maddox\\source\\repos\\SeleniumCore\\Tests.csproj",
+      "projectPath": "C:\\Users\\antwan.maddox\\source\\repos\\NetCoreTestFramework\\Tests.csproj",
       "packagesPath": "C:\\Users\\antwan.maddox\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antwan.maddox\\source\\repos\\SeleniumCore\\obj\\",
+      "outputPath": "C:\\Users\\antwan.maddox\\source\\repos\\NetCoreTestFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -5169,7 +5169,7 @@
           },
           "Selenium.WebDriver.ChromeDriver": {
             "target": "Package",
-            "version": "[91.0.4472.10100, )"
+            "version": "[92.0.4515.4300, )"
           },
           "Selenium.WebDriver.GeckoDriver": {
             "target": "Package",

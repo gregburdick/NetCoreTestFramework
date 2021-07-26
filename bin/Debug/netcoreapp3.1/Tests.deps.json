@@ -16,7 +16,7 @@
           "NLog.Schema": "4.7.10",
           "NUnit3TestAdapter": "3.17.0",
           "Selenium.WebDriver": "4.0.0-alpha01",
-          "Selenium.WebDriver.ChromeDriver": "91.0.4472.10100",
+          "Selenium.WebDriver.ChromeDriver": "92.0.4515.4300",
           "Selenium.WebDriver.GeckoDriver": "0.29.1",
           "Selenium.WebDriver.IEDriver": "3.150.1.2",
           "Selenium.WebDriver.MSEdgeDriver": "91.0.864.37",
@@ -448,7 +448,7 @@
           }
         }
       },
-      "Selenium.WebDriver.ChromeDriver/91.0.4472.10100": {},
+      "Selenium.WebDriver.ChromeDriver/92.0.4515.4300": {},
       "Selenium.WebDriver.GeckoDriver/0.29.1": {},
       "Selenium.WebDriver.IEDriver/3.150.1.2": {},
       "Selenium.WebDriver.MSEdgeDriver/91.0.864.37": {},
@@ -948,7 +948,7 @@
           "NLog.Schema": "4.7.10",
           "NUnit": "3.13.2",
           "Selenium.WebDriver": "4.0.0-alpha01",
-          "Selenium.WebDriver.ChromeDriver": "91.0.4472.10100",
+          "Selenium.WebDriver.ChromeDriver": "92.0.4515.4300",
           "Selenium.WebDriver.GeckoDriver": "0.29.1",
           "Selenium.WebDriver.IEDriver": "3.150.1.2",
           "Selenium.WebDriver.MSEdgeDriver": "91.0.864.37",
@@ -1120,12 +1120,12 @@
       "path": "selenium.webdriver/4.0.0-alpha01",
       "hashPath": "selenium.webdriver.4.0.0-alpha01.nupkg.sha512"
     },
-    "Selenium.WebDriver.ChromeDriver/91.0.4472.10100": {
+    "Selenium.WebDriver.ChromeDriver/92.0.4515.4300": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-RalhItuJ6BZdD9HHVUHdpgDP/NQAUrr1yEAHWet+Ww33wbcuei0A2sF4+9duKaLQuZO3lcid7pKe2+km3sOGBQ==",
-      "path": "selenium.webdriver.chromedriver/91.0.4472.10100",
-      "hashPath": "selenium.webdriver.chromedriver.91.0.4472.10100.nupkg.sha512"
+      "sha512": "sha512-pQz29fVN4LvfhhMj97/sUOqlSGexbReaMb9HvfV2KPz1PeFR2wUvokM0rVsHGq5Jx/0yDnx0eVKac3Fl2t1iig==",
+      "path": "selenium.webdriver.chromedriver/92.0.4515.4300",
+      "hashPath": "selenium.webdriver.chromedriver.92.0.4515.4300.nupkg.sha512"
     },
     "Selenium.WebDriver.GeckoDriver/0.29.1": {
       "type": "package",
