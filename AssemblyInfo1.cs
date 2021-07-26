@@ -18,3 +18,4 @@ using System.Runtime.InteropServices;
 [assembly: Guid("ad0153ba-6238-4802-8ab0-2010f2d3d32d")]
 [assembly: Parallelizable(ParallelScope.Children)]
 [assembly: LevelOfParallelism(5)]
+

@@ -1,0 +1,2 @@
+2021-07-26 12:47:54,961 [ParallelWorker#5] INFO Tests.GoogleSearchTest - Hello logging world!
+2021-07-26 12:51:42,012 [ParallelWorker#5] INFO Tests.GoogleSearchTest - Hello logging world!

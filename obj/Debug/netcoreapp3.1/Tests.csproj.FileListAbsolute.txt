@@ -1,5 +1,6 @@
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\App.QA.config
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\nunit.engine.dll
@@ -12,6 +13,7 @@ C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\Tests.r
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\Tests.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\Tests.pdb
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\log4net.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
@@ -27,6 +29,7 @@ C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\nunit.f
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\WebDriver.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
@@ -104,3 +107,6 @@ C:\Users\antwan.maddox\source\repos\SeleniumCore\obj\Debug\netcoreapp3.1\Tests.c
 C:\Users\antwan.maddox\source\repos\SeleniumCore\obj\Debug\netcoreapp3.1\Tests.dll
 C:\Users\antwan.maddox\source\repos\SeleniumCore\obj\Debug\netcoreapp3.1\Tests.pdb
 C:\Users\antwan.maddox\source\repos\SeleniumCore\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
+C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\antwan.maddox\source\repos\SeleniumCore\bin\Debug\netcoreapp3.1\NLog.config

@@ -45,6 +45,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            },
+            "NLog.Schema": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[3.13.2, )"
@@ -68,6 +76,10 @@
             "Selenium.WebDriver.MSEdgeDriver": {
               "target": "Package",
               "version": "[91.0.864.37, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
             }
           },
           "imports": [
@@ -85,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -148,6 +160,14 @@
               "target": "Package",
               "version": "[3.2.26, )"
             },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            },
+            "NLog.Schema": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            },
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[3.17.0, )"
@@ -172,6 +192,10 @@
               "target": "Package",
               "version": "[91.0.864.37, )"
             },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            },
             "nunit": {
               "target": "Package",
               "version": "[3.13.2, )"
@@ -192,7 +216,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

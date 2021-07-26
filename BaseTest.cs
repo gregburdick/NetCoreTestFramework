@@ -1,5 +1,6 @@
 ﻿using Framework.Enums;
 using Framework.Factory;
+using Framework.Handlers;
 using Framework.Pages;
 using NUnit.Framework;
 using OpenQA.Selenium;
@@ -26,6 +27,7 @@ namespace Tests
         [SetUp]
         public void Setup()
         {
+            TestLogger.GetInstance().Info(String.Format("Starting test {0} using browser {1}", CurrentTestContext.Test.MethodName, BrowserTypeContext.ToString()));
             DriverFactoryInstance = DriverFactory.getInstance();
             DriverFactoryInstance.setDriver(BrowserTypeContext);
             DriverFactoryInstance.getDriver();
@@ -39,18 +41,20 @@ namespace Tests
         [TearDown]
         public void TearDown()
         {
+            TestLogger.GetInstance().Info(String.Format("Tearing down for test {0}", CurrentTestContext.Test.MethodName));
             DriverFactoryInstance.removeDriver();
         }
 
         [OneTimeSetUp]
         public void BeforeAllTests()
         {
-            
+            //Purge logs and reports here using Loghandler and reporthandler
         }
 
         [OneTimeTearDown]
         public void AfterAllTests()
         {
+            TestLogger.GetInstance().Info(String.Format("Killing executable for browser {0}", BrowserTypeContext.ToString()));
             //kill all browser executables if any
             System.Diagnostics.ProcessStartInfo p;
 
