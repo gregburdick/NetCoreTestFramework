@@ -19,8 +19,6 @@ namespace Tests
     [TestFixture(BrowserType.Edge)]
     public class GoogleSearchTest : BaseTest
     {
-        //private static NLog.Logger logger = LogManager.GetLogger("logRules");
-        
         public GoogleSearchTest(BrowserType type) : base(type) { }
 
         public GoogleHomePage _homePage;
@@ -40,7 +38,6 @@ namespace Tests
         [Category("UITest")]
         public void SearchTermInGoogle2()
         {
-            TestLogger.GetInstance().Info("test");
             PagesContext.GoogleHomePage.PerformSearch("C#");
 
         }
